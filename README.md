@@ -1,10 +1,10 @@
 CMSC 475 P5.js Sketches Showcase
 
-Overview
+## Overview
 
 This repository contains a collection of P5.js sketches developed for CMSC 475. The sketches are integrated into a Quarto document, rendered as an HTML page, and published online via GitHub Pages.
 
-Project Structure
+## Project Structure
 
 	•	/connection: The "Connection" sketch and other files downloaded from p5js editor.
 	•	/adventure: The “Adventure” sketch and other files downloaded from p5js editor.
@@ -13,7 +13,7 @@ Project Structure
 	•	style.css: CSS file for styling the web page.
 	•	README.md: This document, providing an overview and instructions.
 
-How to View
+## How to View
 
 The sketches can be viewed online at https://huyenhuynhh.github.io/gallery/.
 
